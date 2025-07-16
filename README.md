@@ -70,10 +70,10 @@ How to use fetch() to make API calls and handle asynchronous data <br>
 
 ## ✅ Future Improvements
 
-• Add loading spinners and error handling for network issues
-• Use context or reducer for better state management
-• Allow conversion history and graphical representation
-• Add light mode and better UX design
+• Add loading spinners and error handling for network issues <br>
+• Use context or reducer for better state management <br>
+• Allow conversion history and graphical representation <br>
+• Add light mode and better UX design <br>
 
 ---
 
@@ -97,6 +97,6 @@ Kelvin Omoluyi
 📧 kelvinomoluyi246@gmail.com
 
 🌐 SM
-LinkedIn: https://www.linkedin.com/in/kelvin-omoluyi-6aa90031b/
-Portfolio: https://kelvinportfolio01.netlify.app
-X: https://x.com/KelvinOmoluyi
+LinkedIn: https://www.linkedin.com/in/kelvin-omoluyi-6aa90031b/ <br>
+Portfolio: https://kelvinportfolio01.netlify.app <br>
+X: https://x.com/KelvinOmoluyi <br>
