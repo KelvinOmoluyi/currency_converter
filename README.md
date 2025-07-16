@@ -60,11 +60,11 @@ Base Endpoint: https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/
 
 ## 🧠 What I Learned
 
-How to use fetch() to make API calls and handle asynchronous data
-• React Hooks: useState, useEffect for managing component lifecycle and state
-• How to dynamically render dropdowns and UI components using .map()
-• Managing user input and conditional rendering
-• Building a simple but real-world useful application with clean state-driven UI
+How to use fetch() to make API calls and handle asynchronous data <br>
+• React Hooks: useState, useEffect for managing component lifecycle and state <br>
+• How to dynamically render dropdowns and UI components using .map() <br>
+• Managing user input and conditional rendering <br>
+• Building a simple but real-world useful application with clean state-driven UI <br>
 
 ---
 
