@@ -38,6 +38,65 @@ A responsive and dynamic currency converter built using **React.js** and **Fetch
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/currency-converter.git
-cd currency-converter
+git clone https://github.com/KelvinOmoluyi/currency-converter.git
+cd currency_converter
+```
 
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3. Start the Application
+```bash
+npm run dev
+```
+
+## 🔧 API Used
+API Name: ExchangeRate-API / any open currency API
+Base Endpoint: https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/currency.json
+
+---
+
+## 🧠 What I Learned
+
+How to use fetch() to make API calls and handle asynchronous data
+• React Hooks: useState, useEffect for managing component lifecycle and state
+• How to dynamically render dropdowns and UI components using .map()
+• Managing user input and conditional rendering
+• Building a simple but real-world useful application with clean state-driven UI
+
+---
+
+## ✅ Future Improvements
+
+• Add loading spinners and error handling for network issues
+• Use context or reducer for better state management
+• Allow conversion history and graphical representation
+• Add light mode and better UX design
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 🙌 Acknowledgments
+
+ExchangeRate-API
+React documentation: https://reactjs.org/
+
+---
+
+## 📬 Contact
+Feel free to reach out:
+
+Kelvin Omoluyi
+📧 kelvinomoluyi246@gmail.com
+
+🌐 SM
+LinkedIn: https://www.linkedin.com/in/kelvin-omoluyi-6aa90031b/
+Portfolio: https://kelvinportfolio01.netlify.app
+X: https://x.com/KelvinOmoluyi
